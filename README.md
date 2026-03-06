@@ -45,9 +45,9 @@ python3 main.py
 
 ## Estrutura
 
-- [main.py](/home/morgoth/Projetos/DoomFire/main.py): menu, loop principal e integracao geral
-- [fire.py](/home/morgoth/Projetos/DoomFire/fire.py): simulacao e configuracao do fogo
-- [render.py](/home/morgoth/Projetos/DoomFire/render.py): renderizacao em `ascii`, cor e blocos
+- [main.py]: menu, loop principal e integracao geral
+- [fire.py]: simulacao e configuracao do fogo
+- [render.py]: renderizacao em `ascii`, cor e blocos
 
 ## Observacoes
 
